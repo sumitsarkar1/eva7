@@ -8,3 +8,7 @@ must mention how you are evaluating your results
 must mention "what" results you finally got and how did you evaluate your results
 must mention what loss function you picked and why!
 training MUST happen on the GPU
+
+Data representation : 
+1. Initially an array of 60000 integers (call it R_train) is randomly generated and fixed as the training data set
+2. A custom data loader is used which combines the MNIST data and the R_train
