@@ -41,41 +41,41 @@ Epoch 2 :
 3. Test set: Average SUM loss: 1.4576, Accuracy: 4284/10000 (43%)
 
 Epoch 3 :
-MNIST loss=0.04307926073670387 SUM loss=0.9536581039428711 batch_id=468: 100%|█|
-Test set: Average MNIST loss: 0.0352, Accuracy: 9894/10000 (99%)
-Test set: Average SUM loss: 0.8700, Accuracy: 6945/10000 (69%)
+1. MNIST loss=0.04307926073670387 SUM loss=0.9536581039428711 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.0352, Accuracy: 9894/10000 (99%)
+3. Test set: Average SUM loss: 0.8700, Accuracy: 6945/10000 (69%)
 
 Epoch 4 :
-MNIST loss=0.04952253773808479 SUM loss=0.37748631834983826 batch_id=468: 100%|█
+MNIST loss=0.04952253773808479 SUM loss=0.37748631834983826 batch_id=468: 100%
 Test set: Average MNIST loss: 0.0285, Accuracy: 9915/10000 (99%)
 Test set: Average SUM loss: 0.4081, Accuracy: 9361/10000 (94%)
 
 Epoch 5 :
-MNIST loss=0.09310784935951233 SUM loss=0.1534867137670517 batch_id=468: 100%|█|
-Test set: Average MNIST loss: 0.0295, Accuracy: 9910/10000 (99%)
-Test set: Average SUM loss: 0.1465, Accuracy: 9789/10000 (98%)
+1. MNIST loss=0.09310784935951233 SUM loss=0.1534867137670517 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.0295, Accuracy: 9910/10000 (99%)
+3. Test set: Average SUM loss: 0.1465, Accuracy: 9789/10000 (98%)
 
 Epoch 6 :
-MNIST loss=0.09910460561513901 SUM loss=0.21645613014698029 batch_id=468: 100%|█
-Test set: Average MNIST loss: 0.0246, Accuracy: 9931/10000 (99%)
-Test set: Average SUM loss: 0.0850, Accuracy: 9851/10000 (99%)
+1. MNIST loss=0.09910460561513901 SUM loss=0.21645613014698029 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.0246, Accuracy: 9931/10000 (99%)
+3. Test set: Average SUM loss: 0.0850, Accuracy: 9851/10000 (99%)
 
 Epoch 7 :
-MNIST loss=0.010061712004244328 SUM loss=0.06789124757051468 batch_id=468: 100%|
-Test set: Average MNIST loss: 0.0251, Accuracy: 9930/10000 (99%)
-Test set: Average SUM loss: 0.0795, Accuracy: 9866/10000 (99%)
+1. MNIST loss=0.010061712004244328 SUM loss=0.06789124757051468 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.0251, Accuracy: 9930/10000 (99%)
+3. Test set: Average SUM loss: 0.0795, Accuracy: 9866/10000 (99%)
 
 Epoch 8 :
-MNIST loss=0.011025783605873585 SUM loss=0.025114253163337708 batch_id=468: 100%
-Test set: Average MNIST loss: 0.0251, Accuracy: 9933/10000 (99%)
-Test set: Average SUM loss: 0.0734, Accuracy: 9882/10000 (99%)
+1. MNIST loss=0.011025783605873585 SUM loss=0.025114253163337708 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.0251, Accuracy: 9933/10000 (99%)
+3. Test set: Average SUM loss: 0.0734, Accuracy: 9882/10000 (99%)
 
 Epoch 9 :
-MNIST loss=0.001581490971148014 SUM loss=0.009856115095317364 batch_id=468: 100%
-Test set: Average MNIST loss: 0.0229, Accuracy: 9930/10000 (99%)
-Test set: Average SUM loss: 0.0583, Accuracy: 9893/10000 (99%)
+1. MNIST loss=0.001581490971148014 SUM loss=0.009856115095317364 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.0229, Accuracy: 9930/10000 (99%)
+3. Test set: Average SUM loss: 0.0583, Accuracy: 9893/10000 (99%)
 
 Epoch 10 :
-MNIST loss=0.000775829132180661 SUM loss=0.009833535179495811 batch_id=468: 100%
-Test set: Average MNIST loss: 0.0228, Accuracy: 9944/10000 (99%)
-Test set: Average SUM loss: 0.0577, Accuracy: 9904/10000 (99%)
+1. MNIST loss=0.000775829132180661 SUM loss=0.009833535179495811 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.0228, Accuracy: 9944/10000 (99%)
+3. Test set: Average SUM loss: 0.0577, Accuracy: 9904/10000 (99%)
