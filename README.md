@@ -31,16 +31,14 @@ Training has been done on GPU
 Results for 10 epochs :
 
 Epoch 1 :
-
-MNIST loss=0.13151748478412628 SUM loss=2.334129571914673 batch_id=468: 100%
-Test set: Average MNIST loss: 0.1669, Accuracy: 9526/10000 (95%)
-Test set: Average SUM loss: 2.3467, Accuracy: 1181/10000 (12%)
+1. MNIST loss=0.13151748478412628 SUM loss=2.334129571914673 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.1669, Accuracy: 9526/10000 (95%)
+3. Test set: Average SUM loss: 2.3467, Accuracy: 1181/10000 (12%)
 
 Epoch 2 :
-
-MNIST loss=0.13226385414600372 SUM loss=1.6017498970031738 batch_id=468: 100%
-Test set: Average MNIST loss: 0.0683, Accuracy: 9819/10000 (98%)
-Test set: Average SUM loss: 1.4576, Accuracy: 4284/10000 (43%)
+1. MNIST loss=0.13226385414600372 SUM loss=1.6017498970031738 batch_id=468: 100%
+2. Test set: Average MNIST loss: 0.0683, Accuracy: 9819/10000 (98%)
+3. Test set: Average SUM loss: 1.4576, Accuracy: 4284/10000 (43%)
 
 Epoch 3 :
 MNIST loss=0.04307926073670387 SUM loss=0.9536581039428711 batch_id=468: 100%|█|
